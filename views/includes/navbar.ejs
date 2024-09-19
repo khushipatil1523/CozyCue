@@ -46,13 +46,15 @@
           <button class="btn btn-search" type="submit"><i class="fa-solid fa-magnifying-glass"></i> Search</button>
         </form>
       </div>
+      
       <div class="navbar-nav ms-auto p-3 bg-white">
         <a class="nav-link" href="/listings">Explore</a>
         <a class="nav-link" href="/listings/new">Enlist Your Haven</a>
         <% if(!currUser) { %>
         <a class="nav-link" href="/signup"><b>Sign Up</b></a>
         <a class="nav-link" href="/login"><b>Log in</b></a>
-        <% } %><% if(currUser) { %>
+        <% } %>
+        <% if(currUser) { %>
         <a class="nav-link" href="/logout"><b>LogOut</b> &nbsp;&nbsp;<i class="fa-duotone fa-solid fa-arrow-right-from-bracket"></i></a>
         <% } %>
       </div>
