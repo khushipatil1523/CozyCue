@@ -47,5 +47,5 @@ During the development of CozyCue, the following key skills were gained:
 - **Booking System**: Allow users to book properties directly through the platform.
 - **Payment Integration**: Implement secure online payment options.
 - **Advanced Filtering**: Add filters for price, location, and property type.
-- **Notifications**: Email and in-app notifications for property updates and reviews.
+- **Notifications**: Email and in-app notifications for property updates.
 
