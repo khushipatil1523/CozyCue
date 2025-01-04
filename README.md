@@ -23,7 +23,7 @@ CozyCue is a user-friendly renting platform built using the MERN stack. This pla
 
 ### Backend
 - Node.js
-- Express.js
+- Express.js.
 
 ### Database
 - MongoDB (Atlas)
