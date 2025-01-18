@@ -30,7 +30,7 @@ CozyCue is a user-friendly renting platform built using the MERN stack. This pla
   
 ## Usage
 
-1. Open your browser and navigate to `http://localhost:3000`.
+1. Open your browser and navigate to `https://cozycue.onrender.com/listings`.
 2. Register or log in to explore the platform.
 3. Add, view, or delete property listings.
 4. Use the review section to leave feedback on properties.
@@ -39,7 +39,6 @@ CozyCue is a user-friendly renting platform built using the MERN stack. This pla
 
 During the development of CozyCue, the following key skills were gained:
 - Implementing **authentication and authorization** mechanisms.
-- Integrating **Google Maps API** for real-time property location visualization.
 - Developing a fully responsive web application.
 
 ## Future Enhancements
