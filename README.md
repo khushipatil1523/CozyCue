@@ -1,4 +1,4 @@
-# CozyCue
+# CozyCue : Hotel & Home Renting Out Platform
 
 CozyCue is a user-friendly renting platform built using the MERN stack. This platform allows users to seamlessly explore, rent, and manage properties with modern features like Google Maps integration, full authentication and authorization, and an interactive review system.
 
