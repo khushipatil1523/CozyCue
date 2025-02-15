@@ -47,4 +47,5 @@ During the development of CozyCue, the following key skills were gained:
 - **Payment Integration**: Implement secure online payment options.
 - **Advanced Filtering**: Add filters for price, location, and property type.
 - **Notifications**: Email and in-app notifications for property updates.
+- **AI ChatBot**
 
